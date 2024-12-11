@@ -4,8 +4,8 @@
 <p><img alt="alt tag" src="../res/ca_logo.png" /></p>
 <h1 id="tciabs-implementation-guide">TCIAB's Implementation Guide</h1>
 <p><strong>iOS</strong></p>
-<p>Last update : <em>05/12/2024</em><br />
-Release version : <em>5.1.1</em></p>
+<p>Last update : <em>11/12/2024</em><br />
+Release version : <em>5.1.2</em></p>
 <p><div id="end_first_page" /></p>
 
 <div class="toc">
@@ -62,7 +62,7 @@ All of those configurations will update automatically but having an offline vers
 </code></pre>
 <p>```</p>
 <h1 id="iab-22">IAB 2.2</h1>
-<p>We support IAB 2.2, the following steps are required once you decide to upgrade your TCConsent to a IABv2.2 compatible version, wich is TCConsent:5.3.3+  or higher.</p>
+<p>We support IAB 2.2, the following steps are required once you decide to upgrade your TCConsent to a IABv2.2 compatible version, wich is TCConsent:5.4.6+  or higher.</p>
 <pre><code>- Please update all of your offline in-app jsons to a V2.2 compatible version, this includes your offline vendor-list.json &amp; any purposes-xx.json translation file you're using.
 - Update your privacy.json offline &amp; cdn file with a refreshed IABv2.2 compatible version and recheck your iab vendors filter, `vendors` key on root.
 - Also make sure to have a `{total_number}` inside your `text-&gt; popup -&gt; purposeTitle ` value.
@@ -149,6 +149,6 @@ But you have a boolean in TCConsent/TCMobilePrivacy which is named generatePubli
 <p>http://www.commandersact.com</p>
 <p>Commanders Act | 3/5 rue Saint Georges - 75009 PARIS - France</p>
 <hr />
-<p>This documentation was generated on 05/12/2024 17:04:38</p>
+<p>This documentation was generated on 11/12/2024 14:55:17</p>
 </body>
 </html>

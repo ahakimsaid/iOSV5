@@ -1,6 +1,10 @@
 Changelog iOS
 =============
 
+*5.1.2 : 09/10/2024*
+
+	~ [IAB] Updated tcfPolicyVersion to 5.
+
 *5.1.1 : 09/10/2024*
 
 	~ [IAB] Updated tcfPolicyVersion to 5.

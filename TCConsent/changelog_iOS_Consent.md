@@ -1,6 +1,10 @@
 Changelog iOS
 =============
 
+*5.4.6 : 09/10/2024*
+
+	~ [IAB] Updated possible languages for IAB translation.
+
 *5.3.3 : 09/10/2024*
 
 	~ [IAB] Updated possible languages for IAB translation.

@@ -6,7 +6,7 @@ Changelog iOS
 
 [Previous changelist](../res/changelog_iOS_3.md)
 
-*5.4.1 : 06/19/2024*
+*5.4.2 : 06/19/2024*
 
     ~ Added base code for new Google Consent Mode update. 
 

@@ -1,7 +1,7 @@
 Changelog iOS
 =================
 
-*5.0.3 : 06/04/2024*
+*5.0.4 : 06/04/2024*
 
 	- Removed hard dependency on TCServerSide module. 
 
