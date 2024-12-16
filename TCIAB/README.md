@@ -149,6 +149,6 @@ But you have a boolean in TCConsent/TCMobilePrivacy which is named generatePubli
 <p>http://www.commandersact.com</p>
 <p>Commanders Act | 3/5 rue Saint Georges - 75009 PARIS - France</p>
 <hr />
-<p>This documentation was generated on 12/12/2024 16:42:33</p>
+<p>This documentation was generated on 12/12/2024 16:49:45</p>
 </body>
 </html>
