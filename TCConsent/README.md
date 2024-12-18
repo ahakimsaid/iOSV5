@@ -4,7 +4,7 @@
 <p><img alt="alt tag" src="../res/ca_logo.png" /></p>
 <h1 id="consents-implementation-guide">Consent's Implementation Guide</h1>
 <p><strong>iOS</strong></p>
-<p>Last update : <em>12/12/2024</em><br />
+<p>Last update : <em>18/12/2024</em><br />
 Release version : <em>5.3.3</em></p>
 <p><div id="end_first_page" /></p>
 
@@ -174,8 +174,8 @@ Otherwise, please check the above section "Manually displayed consent" for how t
 <p><strong>Support</strong>
 <em>support@commandersact.com</em></p>
 <p>http://www.commandersact.com</p>
-<p>Commanders Act | 3/5 rue Saint Georges - 75009 PARIS - France</p>
+<p>Commanders Act |7b rue taylor - 75010 PARIS - France</p>
 <hr />
-<p>This documentation was generated on 12/12/2024 16:49:45</p>
+<p>This documentation was generated on 18/12/2024 15:43:02</p>
 </body>
 </html>

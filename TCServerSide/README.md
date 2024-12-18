@@ -4,7 +4,7 @@
 <p><img alt="alt tag" src="../res/ca_logo.png" /></p>
 <h1 id="serversides-implementation-guide">ServerSide's Implementation Guide</h1>
 <p><strong>iOS</strong></p>
-<p>Last update : <em>12/12/2024</em><br />
+<p>Last update : <em>18/12/2024</em><br />
 Release version : <em>5.4.4</em></p>
 <p><div id="end_first_page" /></p>
 
@@ -106,6 +106,6 @@ We have 3 behaviours:</p>
 <em>support@commandersact.com</em></p>
 <p>http://www.commandersact.com</p>
 <hr />
-<p>This documentation was generated on 12/12/2024 16:49:45</p>
+<p>This documentation was generated on 18/12/2024 15:43:02</p>
 </body>
 </html>

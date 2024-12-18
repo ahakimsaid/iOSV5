@@ -4,7 +4,7 @@
 <p><img alt="alt tag" src="../res/ca_logo.png" /></p>
 <h1 id="tciabs-implementation-guide">TCIAB's Implementation Guide</h1>
 <p><strong>iOS</strong></p>
-<p>Last update : <em>12/12/2024</em><br />
+<p>Last update : <em>18/12/2024</em><br />
 Release version : <em>5.1.1</em></p>
 <p><div id="end_first_page" /></p>
 
@@ -149,6 +149,6 @@ But you have a boolean in TCConsent/TCMobilePrivacy which is named generatePubli
 <p>http://www.commandersact.com</p>
 <p>Commanders Act | 3/5 rue Saint Georges - 75009 PARIS - France</p>
 <hr />
-<p>This documentation was generated on 12/12/2024 16:49:45</p>
+<p>This documentation was generated on 18/12/2024 15:43:02</p>
 </body>
 </html>
