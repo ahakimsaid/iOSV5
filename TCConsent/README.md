@@ -176,6 +176,6 @@ Otherwise, please check the above section "Manually displayed consent" for how t
 <p>http://www.commandersact.com</p>
 <p>Commanders Act |7b rue taylor - 75010 PARIS - France</p>
 <hr />
-<p>This documentation was generated on 18/12/2024 15:43:02</p>
+<p>This documentation was generated on 18/12/2024 16:06:09</p>
 </body>
 </html>
