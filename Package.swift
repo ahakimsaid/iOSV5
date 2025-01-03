@@ -31,32 +31,32 @@ let package = Package(
 
         .binaryTarget(
             name: "TCCore",
-            url: "https://github.com/ahakimsaid/iOSV5/raw/5.4.74/TCCore/5/4/1/TCCore.zip",
-            checksum: "69f48271f271dc6acc9a96c30159ff6ac25e988cb186e705b63562cc1bbbf0d2"
+            url: "https://github.com/ahakimsaid/iOSV5/raw/5.4.16/TCCore/5/4/2/TCCore.zip",
+            checksum: "95fabe8ac12c532e88b5aee0e0a504c83406f84ec3dfa824bec62fd9c8461948"
         ),
         .binaryTarget(
             name: "TCConsent",
-            url: "https://github.com/ahakimsaid/iOSV5/raw/5.4.74/TCConsent/5/3/3/TCConsent.zip",
-            checksum: "772d3877069ecd90101dd7ad321cb900b7b25948100966d7252142a9b26a4d7e"
+            url: "https://github.com/ahakimsaid/iOSV5/raw/5.4.16/TCConsent/5/3/4/TCConsent.zip",
+            checksum: "fd7d81ea91c076f5f4476d4af756fde1557236922ca619011fc230d7801ec62c"
         ),
         .binaryTarget(
             name: "TCPartners",
-            url: "https://github.com/ahakimsaid/iOSV5/raw/5.4.74/TCPartners/5/0/3/TCPartners.zip",
-            checksum: "86ae1807e6d08f3f19dd59a5546fa3a7634eab94fedc55dc2a332a4ec4070480"
+            url: "https://github.com/ahakimsaid/iOSV5/raw/5.4.16/TCPartners/5/0/5/TCPartners.zip",
+            checksum: "a6373de60ec521bf878028afd6059cdb1e28958c2bd65cb8f8ba8d27bafc68fa"
         ),
         .binaryTarget(
             name: "TCServerSide_noIDFA",
-            url: "https://github.com/ahakimsaid/iOSV5/raw/5.4.74/TCServerSide/5/4/4/TCServerSide_noIDFA.zip",
-            checksum: "d4fb75ff9b40e52371facdb3a338f75191c4ed85e70516ae6a990c1cb9856852"
+            url: "https://github.com/ahakimsaid/iOSV5/raw/5.4.16/TCServerSide/5/4/5/TCServerSide_noIDFA.zip",
+            checksum: "bdc2c2f3dc40a2da3adf3821dfd63bf42fa1f820200e777c76187de188ecc7d4"
         ),
         .binaryTarget(
             name: "TCServerSide",
-            url: "https://github.com/ahakimsaid/iOSV5/raw/5.4.74/TCServerSide/5/4/4/TCServerSide.zip",
-            checksum: "7f1ce84d25385022d76b1763bb5f5fbf13ac33c59775d9662ed86e44057d7d2e"
+            url: "https://github.com/ahakimsaid/iOSV5/raw/5.4.16/TCServerSide/5/4/5/TCServerSide.zip",
+            checksum: "a02a6bf92734c3f5638b1d8e8d061c54f07b6806fc27d7870f1622a1d1ebb649"
         ),
         .binaryTarget(
             name: "TCIAB",
-            url: "https://github.com/ahakimsaid/iOSV5/raw/5.4.74/TCIAB/5/1/1/TCIAB.zip",
-            checksum: "eed131c5d71ad8e75f22dd4c774a4e3dd866558edb0215887c3c01dd739153f2"
+            url: "https://github.com/ahakimsaid/iOSV5/raw/5.4.16/TCIAB/5/1/2/TCIAB.zip",
+            checksum: "7a633c6fd8f2b3eaf13c4a20d8080904d9ca0a457035b342135ec6286cf02089"
         ),  ]
 )
