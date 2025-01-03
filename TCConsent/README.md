@@ -174,8 +174,8 @@ Otherwise, please check the above section "Manually displayed consent" for how t
 <p><strong>Support</strong>
 <em>support@commandersact.com</em></p>
 <p>http://www.commandersact.com</p>
-<p>Commanders Act |7b rue taylor - 75010 PARIS - France</p>
+<p>Commanders Act | 7b rue taylor - 75010 PARIS - France</p>
 <hr />
-<p>This documentation was generated on 03/01/2025 11:49:32</p>
+<p>This documentation was generated on 03/01/2025 16:04:18</p>
 </body>
 </html>
