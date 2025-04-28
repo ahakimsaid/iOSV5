@@ -1,9 +1,13 @@
 Changelog iOS
 =============
 
-*5.1.2 : 02/01/2025*
+*5.1.3 : 04/25/2025*
 
-	~ Testing new release scripts.
+	~ Test release
+
+*5.1.2 : XX/XX/2025*
+
+	+ Google Additional Consent (ACString) V2 support.
 
 *5.1.1 : 09/10/2024*
 

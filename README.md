@@ -4,7 +4,7 @@
 <p><img alt="alt tag" src="res/ca_logo.png" /></p>
 <h1 id="developers-implementation-guide">Developers' Implementation Guide</h1>
 <p><strong>iOS</strong></p>
-<p>Last update : <em>03/01/2025</em><br />
+<p>Last update : <em>28/04/2025</em><br />
 Release version : <em>5</em></p>
 <p><div id="end_first_page" /></p>
 
@@ -26,9 +26,9 @@ The modules are the following :</p>
 <h1 id="latest-available-versions">Latest available versions</h1>
 <p>Core : <em>5.4.2</em></p>
 <p>ServerSide : <em>5.4.5</em></p>
-<p>Consent : <em>5.3.4</em></p>
-<p>IAB : <em>5.1.2</em></p>
-<p>Partners : <em>5.0.5</em></p>
+<p>Consent : <em>5.3.8</em></p>
+<p>IAB : <em>5.1.3</em></p>
+<p>Partners : <em>5.0.3</em></p>
 <h1 id="support-and-contacts">Support and contacts</h1>
 <p><img alt="alt tag" src="./res/ca_logo.png" /></p>
 <hr />
@@ -37,6 +37,6 @@ The modules are the following :</p>
 <p>http://www.commandersact.com</p>
 <p>Commanders Act | 7b rue taylor - 75010 PARIS - France</p>
 <hr />
-<p>This documentation was generated on 03/01/2025 16:04:18</p>
+<p>This documentation was generated on 28/04/2025 17:17:27</p>
 </body>
 </html>

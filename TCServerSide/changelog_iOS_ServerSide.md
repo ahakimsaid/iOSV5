@@ -6,9 +6,9 @@ Changelog iOS
 
 [Previous changelist](../res/changelog_iOS_3.md)
 
-*5.4.5 : 02/01/2025*
+*5.4.5 : 04/25/2025*
 
-	~ Testing new release scripts.
+	~ Test release
 
 *5.4.4 : 19/06/2024*
 
